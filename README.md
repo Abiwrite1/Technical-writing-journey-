@@ -9,4 +9,5 @@ This repository contains my technical writing practice articles as I learn about
 - JSON
 - Git and GitHub
 - Documentation
+  
 I am learning one day at a time and documenting my progress here.
