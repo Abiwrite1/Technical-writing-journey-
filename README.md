@@ -1,4 +1,4 @@
-Technical Writing Journey
+# Technical Writing Journey
 
 Hello! My name is Ruby.
 I am an educator and aspiring technical writer.
